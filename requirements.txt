@@ -1,0 +1,7 @@
+uvicorn==0.23.0
+
+fastapi[all]==0.103.0
+
+pydantic==2.4.2
+
+firebase-admin==6.4.0
